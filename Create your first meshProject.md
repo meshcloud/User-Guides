@@ -23,4 +23,4 @@ If you are not familiar with what a meshProject is please check the [official me
  7. Now add any team members who should have access to the new meshProject and the corresponding cloud tenants. You can also add yourself by clicking the "Add myself" button. Don't forget to click the "+" and select a role. ![Add Users and Groups](https://github.com/meshcloud/User-Guides/blob/cfbe2ccfd4fefed40e1468db2fc51e1ecda83cc9/assets/AddUsers.png "Add Users and Groups")
  8. Finally the moment has come, you can now click the "Create Project"-button. It will take a while to create the project and add the users to the tenants. Check the replication status of the new OpenShift Tenant. In a while it should look like this.... ![Check Replication Status](https://github.com/meshcloud/User-Guides/blob/b8e2b6e183c82c86bc3e1b14173d267f5652281c/assets/ReplicationStatus.png "Add Users and Groups")
 
-### Congratulations you are done :tada
+### Congratulations you are done :tada:
