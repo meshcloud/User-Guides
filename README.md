@@ -1,7 +1,7 @@
 # User Guides
 
 #### Hi there :sheep:
-Welcome to our user guide templates which will support you in enabling users :crown: navigating and using the multi-cloud landscape you create in your organization. You can customize and tailor the guide to the requirements and needs of your organization. Believe us it is easy :+1: we got the general things covered so you can focus on the final touch :sparkles: . The templates are based on years of best practices and experiences with all kinds of organizations.
+Welcome to our user guide templates which will support you in enabling users :crown: navigating and using the multi-cloud landscape you create in your organization. You can customize and tailor the guides to the requirements and needs of your organization. Believe us it is easy :+1: We got the general things covered so you can focus on the final touches :sparkles: .
 
 ## :star2: How to make the best out of these guides
 Obviously we offer a lot of possibilities to customize the product to your needs. No cloud journey is the same so this is only natural. One crucial part of a cloud journey is the communication and transparency for teams that move to the cloud. A guide is a useful tool to support users on their way. Therefor we try to keep the language of those guides personal and as relatable as possible by providing context and examples to the described flow. If you use the templates as a basis for your own company user guides try to continue the style to create a smooth reading flow. Replacing the general screenshots with the actual screenshots of your production environment will help users make the real connection and prevent confusion.
