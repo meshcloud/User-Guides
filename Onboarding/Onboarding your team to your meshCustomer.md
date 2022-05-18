@@ -1,4 +1,4 @@
-# Creation of a meshProject
+# Onboarding your team to your meshCustomer
 
 `Customization hints:
 In order to make the guide nicer for the users replace the general screenshot with a screenshot from your production environment to match the colours and options they see in the meshPanel while following the guide. Make sure that the tags required and used during the creation are explained either in this guide or in the description field in the meshPanel. Furthermore please consider any naming schemas for the name and identifier for a project.`
