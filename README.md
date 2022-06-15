@@ -1,5 +1,7 @@
 # User Guides
 
+NOTE: This repository will be archived. It's content is now part of [meshcloud-docs](https://github.com/meshcloud/meshcloud-docs/).
+
 #### Hi there :sheep:
 Welcome to our user guide templates which will support you in enabling users :crown: navigating and using the multi-cloud landscape you create in your organization. You can customize and tailor the guides to the requirements and needs of your organization. Believe us it is easy :+1: We got the general things covered so you can focus on the final touches :sparkles: .
 
